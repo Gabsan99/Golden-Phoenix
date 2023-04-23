@@ -7,7 +7,7 @@ I decided to upload this theme just because I thought it would be nice to share 
 * I also left instructions in the .css file in the form of comments about this.
 * Hope there aren't any issues and you like the slightly modified theme :)
 ### This is how it should look like:
-*Note: some parts are censored for privacy reasons*
+*Note: some parts are censored for privacy reasons*  
 This example is taken from my Discord server:
 ![Discord chat](https://raw.githubusercontent.com/Gabsan99/Golden-Phoenix/main/Screenshots/Chat.png?raw=true "Discord chat")
 How settings look like:
