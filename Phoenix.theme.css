@@ -1,0 +1,62 @@
+/**
+ * @name Gold Phoenix
+ * @version 1.0.6.9
+ * @description Nice background and AMOLED appearance, what else do you want?
+ * @author Gabsan99#3309
+ *
+ * @website http://github.com/Gabsan99
+ * @source https://github.com/Gabsan99/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+*/
+
+@import url(https://gabsan99.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+
+:root {
+	--app-bg: url(); /* your image here, I can't share the one I used probably because of copyright reasons, */
+                   /* only thing I can do is share the link to download the image I used by yourself https://www.pixground.com/phoenix-4k-wallpaper/ */
+                   /* upload the image to imgur and paste in url(here) the link that ends with .jpeg */
+	--app-blur: 6px;
+	--app-margin: 7px;
+	--app-radius: 4px; /*	-	*/
+	
+	--accent-hue: 235.5;
+	--accent-saturation: 100%;
+	--accent-lightness: 68.3%;
+	--accent-opacity: 1;
+	--accent-text-color: #fff; /*	-	*/
+
+	--sidebar-color: rgba(0,0,0,0.8);
+	--main-content-color: rgba(0,0,0,0.45); /*	-	*/
+
+	--message-color: rgba(0,0,0,0.15);
+	--message-radius: 4px;
+	--message-padding-top: 8px;
+	--message-padding-side: 8px; /*	-	*/
+	
+	--reply-hue: 235.5;
+	--reply-saturation: 100%;
+	--reply-lightness: 68.3%;
+	--reply-opacity: 1; /*	-	*/
+
+	--textarea-color: 0,0,0;
+	--textarea-alpha: 0.1;
+	--textarea-alpha-focus: 0.15;
+	--textarea-text-color: #fff;
+	--textarea-radius: 4px;  /*	-	*/
+
+	--card-color: rgba(0,0,0,0.3);
+	--card-color-hover: rgba(0,0,0,0.5);
+	--card-color-select: rgba(0,0,0,0.3); /*	-	*/
+	
+	--button-height: 32px;
+	--button-padding: 0 16px;
+	--button-action-color: #000;
+	--button-radius: 4px; /*	-	*/
+
+	--interactive-normal: #aaa;
+	--interactive-hover: #ddd;
+	--interactive-active: #fff;
+	--interactive-muted: #777; /*	-	*/
+
+	--background-modifier-hover: rgba(255,255,255,0.075);
+	--background-modifier-selected: rgba(255,255,255,0.125);
+}
