@@ -6,3 +6,9 @@ I decided to upload this theme just because I thought it would be nice to share 
 * I can't include the image I used for copyright reasons, so I suggest you go to [Pixground](https://www.pixground.com/phoenix-4k-wallpaper/) where I downloaded it, load it on imgur and paste a link that ends with .jpeg in url() field in the .css file.
 * I also left instructions in the .css file in the form of comments about this.
 * Hope there aren't any issues and you like the slightly modified theme :)
+### This is how it should look like:
+*Note: some parts are censored for privacy reasons*
+This example is taken from my Discord server:
+![[Discord_mfdO1B0XEg.png]]
+How settings look like:
+![[Discord_kU0M8MyOIJ.png]]
