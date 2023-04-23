@@ -9,6 +9,6 @@ I decided to upload this theme just because I thought it would be nice to share 
 ### This is how it should look like:
 *Note: some parts are censored for privacy reasons*
 This example is taken from my Discord server:
-![[https://raw.githubusercontent.com/Gabsan99/Golden-Phoenix/main/Screenshots/Chat.png]]
+![Discord chat](https://raw.githubusercontent.com/Gabsan99/Golden-Phoenix/main/Screenshots/Chat.png?raw=true "Discord chat")
 How settings look like:
-![[https://raw.githubusercontent.com/Gabsan99/Golden-Phoenix/main/Screenshots/Settings.png]]
+![Discord settings](https://raw.githubusercontent.com/Gabsan99/Golden-Phoenix/main/Screenshots/Settings.png?raw=true "Discord settings")
